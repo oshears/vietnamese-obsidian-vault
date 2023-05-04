@@ -1,0 +1,3 @@
+buồn
+
+[[thấy]] [[buồn]]: feel 

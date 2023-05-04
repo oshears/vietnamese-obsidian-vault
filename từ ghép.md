@@ -1,0 +1,4 @@
+[[từ]] [[ghép]]
+
+
+- compound word

@@ -1,0 +1,6 @@
+- to clean
+
+
+
+Synonyms:
+- [[rửa]]

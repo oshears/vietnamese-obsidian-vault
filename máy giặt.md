@@ -1,0 +1,3 @@
+[[máy]] [[giặt]]
+
+- washing machine

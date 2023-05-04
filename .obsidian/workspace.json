@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "91e02ba202458acd",
+    "type": "split",
+    "children": [
+      {
+        "id": "44a5960f7ebb8ef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5db7cf4ed7f3aced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c65ebf0273cd549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "phút.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f42aed047971926c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "đồ ăn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "674a891bd28b8f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/VietnamesePod101.com.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3646f15c76ffa09",
+    "type": "split",
+    "children": [
+      {
+        "id": "a37c4f76a0d5bc5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a20f450f14c2d5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dae4add1382fc3e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbbc33edabc80c7e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9ca81c827ea0226c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6408e1cec1041563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d92569bb00356bd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "đồ ăn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "562561ad9578fba4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "đồ ăn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85a290770916025a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e006adf1f0120488",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "đồ ăn.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f42aed047971926c",
+  "lastOpenFiles": [
+    "nữa.md",
+    "phút.md",
+    "General/Ideas.md",
+    "ở đâu.md",
+    "Sources/VietnamesePod101.com.md",
+    "Templates/Word Template.md",
+    "rửa.md",
+    "dọn.md",
+    "máy giặt.md",
+    "Sources",
+    "ngắm bãi biển.md",
+    "trực tiếp.md",
+    "tới.md",
+    "tiếp theo.md",
+    "gặp.md",
+    "vẫn.md",
+    "với.md",
+    "khi nào.md",
+    "lần.md",
+    "lần cuối cùng.md",
+    "2 tuần 1 lần.md",
+    "tuần.md",
+    "có lẽ.md",
+    "có thể.md",
+    "mối quan hệ.md",
+    "các mối quan hệ.md",
+    "như thế nào.md",
+    "General",
+    "Language Constructs",
+    "Templates"
+  ]
+}

@@ -1,0 +1,4 @@
+
+[[thấy]] + [[buồn]]
+
+- feel sad
