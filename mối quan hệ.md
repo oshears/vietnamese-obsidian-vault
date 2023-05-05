@@ -1,2 +1,2 @@
-[[mối]] [[quan]] [[hệ]]
+[[mối]] + [[quan]] + [[hệ]]
 - relationship

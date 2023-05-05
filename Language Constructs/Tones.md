@@ -7,3 +7,4 @@
 - **[[hỏi]]**: question tone
 - **[[ngã]]**: falling (then rising) tone
 - **[[nặng]]**: heavy tone
+- [[ngang]]: horizontal

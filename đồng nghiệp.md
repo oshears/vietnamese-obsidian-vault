@@ -1,5 +1,8 @@
 
-[[đồng]] [[nghiệp]]
+[[đồng]]: same
+[[nghiệp]]: trade, profession
 
-- co workers
-- 
+- co-worker
+
+
+

@@ -2,5 +2,5 @@
 - easy
 
 Similar Words:
-- [[Dễ]] [[dàng]]
+- [[dễ]] [[dàng]]
 - [[dễ]]
