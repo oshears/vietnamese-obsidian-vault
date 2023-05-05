@@ -4,263 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "77d7a18d9497715f",
+        "id": "7add53abc8d9a4f7",
         "type": "tabs",
         "children": [
           {
-            "id": "60d619d6e14a8399",
+            "id": "4b282bc65ab5ad5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "trường đại học.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c8b53dc14efb848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Đạp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd6ad6847133a09f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "đi dạo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b976197e7af538c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mua.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "956a7b5b200514d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vệ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ce33e5ae97f9c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sàn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e3d9dd37b4eff33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xỉa răng.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8244d309d195c58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lái.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4c2047dc5973934",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vĩ đại.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cbaa179f6a0cbfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sách.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99c4ebe4a272db6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Xỉa răng.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a7b93b056c875be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tư.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6fb6dbfc3e1112b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "qua.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e40fb8ad6ded5838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bằng.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cd48c9f66264ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dì.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a7c450aae6fdcd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bút bi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d7f95eb4dab65b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Obsidian Flash Cards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97fc22274372376f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "đường.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f686a501dab7762e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "học.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f610f351c2750d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Word Definition Sources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce3ec1eaacec95f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "đại.md",
-                "mode": "source",
-                "source": false
+                "file": "Sources/Vietnamese for Beginners.pdf"
               }
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -326,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Obsidian Flash Cards.md",
+                "file": "Sources/Vietnamese for Beginners.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Obsidian Flash Cards.md",
+                "file": "Sources/Vietnamese for Beginners.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Obsidian Flash Cards.md"
+                "file": "Sources/Vietnamese for Beginners.pdf"
               }
             }
           },
@@ -398,10 +155,19 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5d7f95eb4dab65b2",
+  "active": "9a20f450f14c2d5c",
   "lastOpenFiles": [
-    "Sources/Jake Catlett, Huong Nguyen - Vietnamese for Beginners-Paiboon Publishing (2005).pdf",
+    "nếu.md",
+    "thì.md",
+    "để.md",
+    "đói.md",
+    "bụng.md",
+    "mệt.md",
+    "Untitled 4.md",
+    "nhũng.md",
+    "nhưng.md",
     "Resources/Obsidian Flash Cards.md",
+    "Sources/Vietnamese for Beginners.pdf",
     "Resources",
     "bút chì.md",
     "bút bi.md",
@@ -419,16 +185,8 @@
     "năm.md",
     "lăm.md",
     "chú.md",
-    "tư.md",
-    "cái.md",
-    "tứ.md",
-    "con (noun; classifier).md",
     "Times",
     "Numbers",
-    "Untitled 2.md",
-    "chiếc.md",
-    "Xỉa răng.md",
-    "răng.md",
     "Sources",
     "General",
     "Language Constructs",
