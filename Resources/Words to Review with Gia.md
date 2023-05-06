@@ -69,6 +69,24 @@
 - perfect
 - humurous
 - happy
+- joke
+- joking
+- right and left
+- last
+- first
+- top
+- bottom
+- above
+- below
+- recently
+- last time
+- next time
+- ugly
+- thousand
+- game
+- video game
+- perfect, very accurate
+- short
 
 
 body parts
