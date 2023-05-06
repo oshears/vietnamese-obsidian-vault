@@ -8,16 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b282bc65ab5ad5b",
+            "id": "ba86e395f33bb33f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd853c55b50b4562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "Sources/Vietnamese for Beginners.pdf"
+                "file": "chào buổi tối.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Vietnamese for Beginners.pdf",
+                "file": "chào buổi tối.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/Vietnamese for Beginners.pdf",
+                "file": "chào buổi tối.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Vietnamese for Beginners.pdf"
+                "file": "chào buổi tối.md"
               }
             }
           },
@@ -155,36 +166,37 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9a20f450f14c2d5c",
+  "active": "cd853c55b50b4562",
   "lastOpenFiles": [
-    "nếu.md",
-    "thì.md",
-    "để.md",
-    "đói.md",
-    "bụng.md",
-    "mệt.md",
-    "Untitled 4.md",
-    "nhũng.md",
-    "nhưng.md",
-    "Resources/Obsidian Flash Cards.md",
+    "chào buổi tối.md",
     "Sources/Vietnamese for Beginners.pdf",
+    "đứng.md",
+    "đúng.md",
+    "đang.md",
+    "xem.md",
+    "xa xỉ.md",
+    "tập.md",
+    "trưởng thàng.md",
+    "trước khi.md",
+    "truyền thống.md",
+    "trung thực.md",
+    "thấy.md",
+    "sự lựa chọn.md",
+    "rất.md",
+    "nửa.md",
+    "nấu.md",
+    "những.md",
+    "nhanh.md",
+    "ngồi.md",
+    "một nửa.md",
+    "múa.md",
+    "lựa.md",
+    "luyện tập.md",
+    "khóc.md",
+    "khoẻ.md",
+    "khi.md",
+    "Pasted image 20230506091504.png",
     "Resources",
-    "bút chì.md",
-    "bút bi.md",
-    "bút.md",
-    "dì.md",
-    "đi.md",
-    "là gì.md",
-    "bằng.md",
-    "đường.md",
-    "qua.md",
-    "Language Constructs/Homophones.md",
-    "Untitled 3.md",
-    "mười.md",
-    "Numbers/Numbers.md",
-    "năm.md",
-    "lăm.md",
-    "chú.md",
     "Times",
     "Numbers",
     "Sources",
