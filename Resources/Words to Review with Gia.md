@@ -28,4 +28,14 @@
 - Good
 - Bad
 - Hard
+- lazy
+- strong
+- weak
+- cute
+- nice
+
+
+body parts
+- arm
+- legs
 - 
