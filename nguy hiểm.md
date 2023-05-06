@@ -1,0 +1,7 @@
+#adjective 
+
+- dangerous
+
+
+[[nguy]]:  
+[[hiểm]]: 

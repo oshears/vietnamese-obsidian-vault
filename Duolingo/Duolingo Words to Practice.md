@@ -3,4 +3,6 @@
 - [[tích cực]]: positive
 - [[truyền thống]]: traditional
 - [[bình thường]]: normal
+- [[nghiêm túc]]: serious
+- [[nguy hiểm]]: dangerous
 
