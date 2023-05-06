@@ -1,0 +1,31 @@
+- fast
+- Flower
+- qua, lam (very, so)
+- Forgot
+- difficult
+- car
+- Inside
+- better
+- Worse
+- Choose
+- Long drive
+- Long time
+- Short time
+- Busy
+- Lazy
+- smell
+- smells good
+- smells bad
+- Happy
+- Fun
+- Sad
+- move
+- Old
+- New
+- Sometimes
+- Maybe
+- I can versus I might
+- Good
+- Bad
+- Hard
+- 

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tập.md",
+                "file": "Words to Review with Gia.md",
                 "mode": "preview",
                 "source": true
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tập.md",
+            "file": "Words to Review with Gia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "tập.md",
+            "file": "Words to Review with Gia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "tập.md"
+            "file": "Words to Review with Gia.md"
           }
         }
       }
@@ -142,8 +142,9 @@
   },
   "active": "bda8a3531aae9ef6",
   "lastOpenFiles": [
-    "luyện tập.md",
     "tập.md",
+    "Words to Review with Gia.md",
+    "luyện tập.md",
     "ngồi.md",
     "Ngủ.md",
     "khoẻ.md",
@@ -168,7 +169,6 @@
     "khi.md",
     "cũ.md",
     "dặc biệt.md",
-    "dặc.md",
     "Duolingo"
   ]
 }
