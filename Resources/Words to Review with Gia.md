@@ -63,6 +63,8 @@
 - wash self
 - sweat
 - stubborn
+- what happened?
+- 
 
 
 body parts
