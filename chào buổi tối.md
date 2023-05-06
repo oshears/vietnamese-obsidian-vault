@@ -3,6 +3,6 @@
 
 
 
-[[chào]]: 
+[[chào]]: hello
 [[buổi]]: 
 [[tối]]: night
