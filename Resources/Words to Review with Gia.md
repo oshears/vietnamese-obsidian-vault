@@ -88,6 +88,22 @@
 - perfect, very accurate
 - short
 - we have been here
+- same thing
+- it is the same
+- flower
+- month
+- day year
+- dates
+- weather
+- temperature
+- rain
+- hot
+- cloud
+- desert
+- moountain
+- too high
+- too low
+- too much
 - 
 
 
