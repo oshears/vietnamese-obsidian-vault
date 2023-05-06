@@ -65,6 +65,10 @@
 - stubborn
 - what happened?
 - would you want to live here?
+- funny
+- perfect
+- humurous
+- happy
 
 
 body parts
