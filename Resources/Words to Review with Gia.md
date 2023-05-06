@@ -33,9 +33,36 @@
 - weak
 - cute
 - nice
+- short
+- tall
+- mean
+- because
+- before
+- after
+- light
+- airplane
+- van
+- airport
+- beach
+- money
+- keys
+- glasses
+- cell phone
+- important
+- what do you want to go see?
+- What do you want to do?
+- full
+- popular
+- get, got
+- favorite 
+- place
+- what does it say?
+- what doesit mean?
+- in the video
+- 
 
 
 body parts
 - arm
 - legs
-- 
+- face
