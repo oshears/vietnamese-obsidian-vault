@@ -59,7 +59,10 @@
 - what does it say?
 - what doesit mean?
 - in the video
-- 
+- soap
+- wash self
+- sweat
+- stubborn
 
 
 body parts
