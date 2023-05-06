@@ -1,0 +1,4 @@
+#verb #duolingo 
+
+
+- to see

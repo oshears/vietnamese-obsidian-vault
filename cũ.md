@@ -1,0 +1,6 @@
+#adjective #duolingo 
+
+- old
+
+
+

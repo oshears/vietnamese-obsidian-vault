@@ -1,4 +1,4 @@
-#number 
+#number #duolingo 
 
 - four (at the end of the number)
 

@@ -1,3 +1,11 @@
-#object 
+#object #duolingo 
 
-answer
+- answer
+
+[[câu]]: 
+[[trả]]: 
+[[lời]]: 
+
+# similar words
+- [[câu hỏi]]: question
+- 

@@ -1,4 +1,4 @@
-#adjective
+#adjective #duolingo 
 
 
 - new

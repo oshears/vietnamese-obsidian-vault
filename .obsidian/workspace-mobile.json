@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vietnamese Learning Tips.md",
-                "mode": "source",
+                "file": "tập.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Vietnamese Learning Tips.md",
+            "file": "tập.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Vietnamese Learning Tips.md",
+            "file": "tập.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Vietnamese Learning Tips.md"
+            "file": "tập.md"
           }
         }
       }
@@ -142,15 +142,33 @@
   },
   "active": "bda8a3531aae9ef6",
   "lastOpenFiles": [
-    "Obsidian.md",
-    "Vietnamese Learning Tips.md",
-    "Resources/Obsidian Flash Cards.md",
-    "General/Duolingo.md",
-    "Sources/Word Definition Sources.md",
-    "lựa.md",
-    "sự lựa chọn.md",
-    "ăn.md",
-    "bãi biển.md",
-    "bằng.md"
+    "luyện tập.md",
+    "tập.md",
+    "ngồi.md",
+    "Ngủ.md",
+    "khoẻ.md",
+    "đang.md",
+    "hiện tại.md",
+    "khóc.md",
+    "khác.md",
+    "cừoi.md",
+    "cuối.md",
+    "vào lúc này.md",
+    "nấu.md",
+    "đứng.md",
+    "đúng.md",
+    "đường.md",
+    "Pasted image 20230506091504.png",
+    "bây giờ.md",
+    "xa xỉ.md",
+    "Duolingo Words to Practice.md",
+    "bình thường.md",
+    "bàn.md",
+    "trước khi.md",
+    "khi.md",
+    "cũ.md",
+    "dặc biệt.md",
+    "dặc.md",
+    "Duolingo"
   ]
 }
