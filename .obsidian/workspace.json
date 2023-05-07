@@ -80,6 +80,42 @@
             }
           },
           {
+            "id": "91e9c1100f59bb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "có rảnh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f16b38aeb1d7d65c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sáng nay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2b162c6bd88d143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chút.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53f58b5c9d16e9d5",
             "type": "leaf",
             "state": {
@@ -92,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -142,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9ca81c827ea0226c",
@@ -159,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Words to Review with Gia.md",
+                "file": "chút.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Words to Review with Gia.md",
+                "file": "chút.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Words to Review with Gia.md"
+                "file": "chút.md"
               }
             }
           },
@@ -231,8 +266,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2c7d7eb5c754c1ff",
+  "active": "b2b162c6bd88d143",
   "lastOpenFiles": [
+    "có rảnh để gọi điện một chút không.md",
+    "chút.md",
+    "rảnh.md",
+    "có rảnh.md",
+    "để.md",
+    "sáng nay.md",
+    "Resources/Words to Review with Gia.md",
+    "đầu tiên.md",
+    "thứ một.md",
+    "thành công.md",
+    "mở.md",
+    "muối.md",
+    "cuối cùng.md",
+    "bảy giờ.md",
+    "Books to Read.md",
+    "Alphabet.md",
     "Untitled 5.md",
     "ấm.md",
     "vào.md",
@@ -243,26 +294,10 @@
     "về nhà.md",
     "về.md",
     "tối.md",
-    "ngày.md",
-    "hôm nay.md",
-    "hôm.md",
-    "nay.md",
-    "này.md",
-    "nguy hiểm.md",
-    "Duolingo/Duolingo Words to Practice.md",
-    "Duolingo/Duolingo.md",
-    "Resources/Vietnamese Learning Tips.md",
     "Duolingo",
     "Untitled",
-    "Numbers/Numbers.md",
-    "Templates/Word Template.md",
-    "nghiêm túc.md",
     "Pasted image 20230506091504.png",
-    "chào buổi tối.md",
     "Sources/Vietnamese for Beginners.pdf",
-    "đứng.md",
-    "đúng.md",
-    "đang.md",
     "Resources",
     "Times",
     "Numbers",

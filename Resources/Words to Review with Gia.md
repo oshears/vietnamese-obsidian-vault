@@ -114,7 +114,7 @@
 - hot: naum
 - cloud
 - desert
-- moountain
+- mountain
 - too high: 
 - too low: 
 - too much: nhiều quá 
