@@ -1,2 +1,2 @@
-[[lần]] [[cuối]] [[cùng]]
+[[lần]] [[cuối cùng]] [[cùng]]
 - last time

@@ -1,110 +1,133 @@
-- fast
+- fast: mau
+- Slow: Cham
 - Flower
 - qua, lam (very, so)
-- Forgot
-- difficult
-- car
+- Forgot: quan
+- difficult: 
+- car: xe
 - Inside
-- better
-- Worse
-- Choose
-- Long drive
+- better: 
+- Worse: 
+- Choose: 
+- Long drive: 
 - Long time
 - Short time
-- Busy
-- Lazy
-- smell
+- Busy: 
+- Lazy: lam bien
+- smelly: tôi 
+- To smell: h
 - smells good
 - smells bad
-- Happy
-- Fun
-- Sad
-- move
-- Old
-- New
+- Happy: 
+- Fun: vui
+- Sad: buồn 
+- move: 
+- Old person: 
+- New: 
 - Sometimes
 - Maybe
 - I can versus I might
 - Good
 - Bad
 - Hard
-- lazy
-- strong
+- strong: 
 - weak
-- cute
+- cute: 
 - nice
-- short
+- short: 
 - tall
-- mean
+- mean: hom
 - because
 - before
 - after
-- light
-- airplane
+- light: dang pin
+- airplane: 
 - van
 - airport
 - beach
-- money
-- keys
+- money: tiền 
+- keys: 
 - glasses
 - cell phone
-- important
+- important: 
 - what do you want to go see?
+	- Đi côi: to go watch
+	- Dì thấy: to go see
 - What do you want to do?
+	- 
 - full
 - popular
 - get, got
-- favorite 
+	- Co
+- favorite: 
 - place
 - what does it say?
-- what doesit mean?
+	- cái đó nói cái gì 
+- what does it mean?
+	- 
 - in the video
+	- movie: fim
 - soap
+	- sa bom 
 - wash self
+	- De tam: take a shower
 - sweat
+	- 
 - stubborn
+	- 
 - what happened?
 - would you want to live here?
+- 
 - funny
 - perfect
 - humurous
-- happy
-- joke
-- joking
-- right and left
-- last
+- happy: vui
+- joke: 
+- joking: 
+- right and left: phải chai 
+- last: 
 - first
 - top
 - bottom
 - above
-- below
+- below: a đuổi 
 - recently
 - last time
 - next time
-- ugly
-- thousand
-- game
+- ugly: sau
+- thousand: ngang?
+- game: 
 - video game
-- perfect, very accurate
-- short
-- we have been here
+- perfect, very accurate: 
+- short: coup (clothes)
+- we have been here: 
 - same thing
 - it is the same
 - flower
 - month
-- day year
+- day 
+- year
 - dates
 - weather
 - temperature
-- rain
-- hot
+- rain:
+- hot: naum
 - cloud
 - desert
 - moountain
-- too high
-- too low
-- too much
-- 
+- too high: 
+- too low: 
+- too much: nhiều quá 
+- late: 
+- On time: 
+- cheese: 
+- Sweet: 
+- Salty: 
+- Like
+- Similar to
+- I have been here before
+	- I went: 
+- Month
 
 
 body parts
