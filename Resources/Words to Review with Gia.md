@@ -1,8 +1,9 @@
-- fast: mau
-- Slow: Cham
-- Flower
-- qua, lam (very, so)
-- Forgot: quan
+- fast: [[mau]]
+- Slow: [[chậm]] 
+- Flower: [[hoa]]
+- quá, [[lắm]] (very, so)
+	- [[nẩm]] [[quá]]: so hot
+- Forgot: [[quên]]
 - difficult: 
 - car: xe
 - Inside
@@ -13,20 +14,22 @@
 - Long time
 - Short time
 - Busy: 
-- Lazy: lam bien
-- smelly: tôi 
-- To smell: h
+- Lazy: [[lắm biếng]] 
+	- [[lười biếng]]
+- smelly: [[hôi]]
+- To smell: [[ngửi]]
 - smells good
 - smells bad
 - Happy: 
 - Fun: vui
 - Sad: buồn 
 - move: 
-- Old person: 
+- Old person: [[người]] [[lớn]] [[tuổi]] 
+- Young person: [[người]] [[trẻ]] 
 - New: 
 - Sometimes
-- Maybe
-- I can versus I might
+- Maybe: [[có lẽ]]
+- I can versus I might: [[có thể]]
 - Good
 - Bad
 - Hard
@@ -41,18 +44,20 @@
 - before
 - after
 - light: dang pin
+	- [[đèn]]
 - airplane: 
 - van
 - airport
 - beach
-- money: tiền 
+- money: [[tiền]] 
+	- 
 - keys: 
 - glasses
 - cell phone
 - important: 
 - what do you want to go see?
-	- Đi côi: to go watch
-	- Dì thấy: to go see
+	- Đi [[coi]]: to go watch
+	- đi [[thấy]]: to go see
 - What do you want to do?
 	- 
 - full
@@ -66,11 +71,10 @@
 - what does it mean?
 	- 
 - in the video
-	- movie: fim
-- soap
-	- sa bom 
+	- movie: [[phim]]
+- soap: [[xà bông]] 
 - wash self
-	- De tam: take a shower
+	- [[đi tắm]]: take a shower
 - sweat
 	- 
 - stubborn
@@ -81,21 +85,21 @@
 - funny
 - perfect
 - humurous
-- happy: vui
+- happy: [[vui]]
 - joke: 
 - joking: 
-- right and left: phải chai 
+- right and left: [[phải]] và [[trái]]
 - last: 
 - first
 - top
 - bottom
 - above
-- below: a đuổi 
+- below: ở [[dưới]]
 - recently
 - last time
 - next time
 - ugly: sau
-- thousand: ngang?
+- thousand: [[ngàn]]
 - game: 
 - video game
 - perfect, very accurate: 
@@ -117,7 +121,7 @@
 - mountain
 - too high: 
 - too low: 
-- too much: nhiều quá 
+- too much: [[nhiều]] [[quá ]]
 - late: 
 - On time: 
 - cheese: 
@@ -128,6 +132,8 @@
 - I have been here before
 	- I went: 
 - Month
+- Bring: dem
+- 
 
 
 body parts
