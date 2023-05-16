@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Words to Review with Gia.md",
+                "file": "nhắc.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "f53a16f85f82f094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diphthongs and Tripthongs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Resources/Words to Review with Gia.md",
+            "file": "Diphthongs and Tripthongs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Resources/Words to Review with Gia.md",
+            "file": "Diphthongs and Tripthongs.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Resources/Words to Review with Gia.md"
+            "file": "Diphthongs and Tripthongs.md"
           }
         }
       }
@@ -131,34 +144,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bfc6a9e2b601a8a",
+  "active": "f53a16f85f82f094",
   "lastOpenFiles": [
-    "thành công.md",
-    "Duolingo/Duolingo Words to Practice.md",
-    "General/Duolingo.md",
-    "hôm nay.md",
-    "nguy hiểm.md",
-    "hàng.md",
-    "tối.md",
-    "ngày.md",
-    "Resources/Words to Review with Gia.md",
-    "Resources/Vietnamese Learning Tips.md",
+    "nhắc.md",
+    "Diphthongs and Tripthongs.md",
     "về.md",
-    "chào buổi tối.md",
-    "nay.md",
-    "ấm.md",
-    "Duolingo/Duolingo.md",
-    "này.md",
+    "nhạc.md",
+    "đố ăn.md",
+    "đồ ăn.md",
+    "khi nào.md",
+    "tổng số.md",
+    "sẽ ở.md",
+    "sống.md",
+    "kiên nhẫn.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Untitled 4.md",
     "Untitled 5.md",
-    "nhà hàng.md",
-    "hôm.md",
-    "về nhà.md",
-    "nhà.md",
-    "nghiêm túc.md",
-    "mở.md",
-    "muối.md",
-    "Books to Read.md",
-    "đến.md",
+    "lắm.md",
+    "xỉa.md",
+    "xỉa răng.md",
+    "xong.md",
+    "tốt.md",
+    "nhiều.md",
+    "nhiều lắm.md",
+    "nhiều quá.md",
+    "nhiêu.md",
     "Pasted image 20230506091504.png",
     "Duolingo"
   ]

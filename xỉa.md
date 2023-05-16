@@ -7,4 +7,4 @@
 
 
 # Expressions
-- [[Xỉa răng]]: to floss
+- [[xỉa răng]]: to floss
