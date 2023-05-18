@@ -176,6 +176,30 @@
             }
           },
           {
+            "id": "2dfb37cd2745b2c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thôi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "471cd0745664fd60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bạc hà.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53f58b5c9d16e9d5",
             "type": "leaf",
             "state": {
@@ -188,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Words to Review with Gia.md",
+                "file": "bạc hà.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Words to Review with Gia.md",
+                "file": "bạc hà.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Words to Review with Gia.md"
+                "file": "bạc hà.md"
               }
             }
           },
@@ -326,8 +350,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1a8284cfa5ebf313",
+  "active": "471cd0745664fd60",
   "lastOpenFiles": [
+    "canh cua.md",
+    "bạc hà.md",
+    "thôi.md",
+    "Resources/Words to Review with Gia.md",
     "xong rồi không.md",
     "Untitled 6.md",
     "làm được.md",
@@ -350,10 +378,6 @@
     "kiên nhẫn.md",
     "Diphthongs and Tripthongs.md",
     "chút.md",
-    "có rảnh để gọi điện một chút không.md",
-    "rảnh.md",
-    "có rảnh.md",
-    "để.md",
     "Duolingo",
     "Untitled",
     "Pasted image 20230506091504.png",
