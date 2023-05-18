@@ -133,6 +133,11 @@
 	- I went: 
 - Month
 - Bring: dem
+- Stop
+- More
+- Less
+- Too few: ít
+- Too much
 - 
 
 

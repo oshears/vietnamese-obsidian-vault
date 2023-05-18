@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xong rồi không.md",
+                "file": "Resources/Words to Review with Gia.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "xong rồi không.md",
+                "file": "Resources/Words to Review with Gia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "xong rồi không.md",
+                "file": "Resources/Words to Review with Gia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "xong rồi không.md"
+                "file": "Resources/Words to Review with Gia.md"
               }
             }
           },
@@ -328,8 +328,8 @@
   },
   "active": "1a8284cfa5ebf313",
   "lastOpenFiles": [
-    "Untitled 6.md",
     "xong rồi không.md",
+    "Untitled 6.md",
     "làm được.md",
     "được.md",
     "bánh bò nướng.md",
