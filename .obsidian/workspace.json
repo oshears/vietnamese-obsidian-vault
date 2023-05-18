@@ -140,6 +140,18 @@
             }
           },
           {
+            "id": "fab69ed9444b2b83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "làm được.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53f58b5c9d16e9d5",
             "type": "leaf",
             "state": {
@@ -152,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bánh bò nướng.md",
+                "file": "làm được.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bánh bò nướng.md",
+                "file": "làm được.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bánh bò nướng.md"
+                "file": "làm được.md"
               }
             }
           },
@@ -290,10 +302,12 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "db99fd39c5f982e9",
+  "active": "fab69ed9444b2b83",
   "lastOpenFiles": [
-    "giờ dây thun.md",
+    "được.md",
+    "làm được.md",
     "bánh bò nướng.md",
+    "giờ dây thun.md",
     "xỉa.md",
     "xỉa răng.md",
     "xong.md",
@@ -316,8 +330,6 @@
     "để.md",
     "sáng nay.md",
     "Resources/Words to Review with Gia.md",
-    "đầu tiên.md",
-    "thứ một.md",
     "Duolingo",
     "Untitled",
     "Pasted image 20230506091504.png",
