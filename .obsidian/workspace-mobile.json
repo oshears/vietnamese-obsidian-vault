@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diphthongs and Tripthongs.md",
+                "file": "tắt.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Gia words",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -86,7 +86,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "67f31e8efe023105",
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Diphthongs and Tripthongs.md",
+            "file": "tắt.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Diphthongs and Tripthongs.md",
+            "file": "tắt.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Diphthongs and Tripthongs.md"
+            "file": "tắt.md"
           }
         }
       }
@@ -146,32 +146,32 @@
   },
   "active": "f53a16f85f82f094",
   "lastOpenFiles": [
+    "bật.md",
+    "sản xuất.md",
+    "tắt đèn.md",
+    "tắt.md",
+    "nhìn.md",
+    "dừng.md",
+    "đường.md",
+    "đúng.md",
+    "lúc mấy giờ.md",
+    "chuyển đến.md",
+    "tôi.md",
+    "ông nội.md",
+    "chết.md",
+    "không thể nghĩ ra từ.md",
+    "hôm nay.md",
+    "Resources/Words to Review with Gia.md",
+    "cho.md",
+    "đưa nó cho tôi.md",
+    "thứ một.md",
+    "má đi ngủ chưa.md",
     "nhắc.md",
-    "Diphthongs and Tripthongs.md",
-    "về.md",
-    "nhạc.md",
-    "đố ăn.md",
-    "đồ ăn.md",
-    "khi nào.md",
-    "tổng số.md",
-    "sẽ ở.md",
-    "sống.md",
-    "kiên nhẫn.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
-    "Untitled 5.md",
-    "lắm.md",
-    "xỉa.md",
-    "xỉa răng.md",
-    "xong.md",
-    "tốt.md",
-    "nhiều.md",
-    "nhiều lắm.md",
-    "nhiều quá.md",
-    "nhiêu.md",
+    "vậy biết bố là ai không.md",
+    "thứ hai.md",
+    "em trai.md",
+    "trái cây.md",
+    "quên.md",
     "Pasted image 20230506091504.png",
     "Duolingo"
   ]

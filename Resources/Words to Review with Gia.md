@@ -133,6 +133,8 @@
 	- I went: 
 - Month
 - Bring: dem
+- loud
+- Quiet
 - 
 
 
