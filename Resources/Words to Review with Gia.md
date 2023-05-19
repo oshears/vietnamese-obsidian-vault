@@ -1,3 +1,6 @@
+---
+alias: Gia's Words, Gias Words, Gia's Family Words
+---
 - fast: [[mau]]
 - Slow: [[chậm]] 
 - Flower: [[hoa]]
