@@ -5,6 +5,7 @@
 	- to
 		- [[đi]] đến‎
 	- to go to‎
+	- until a (time) #tuấn-anh 
 - Verb
 	- đến 
 	- arrive, come
@@ -20,3 +21,7 @@
 
 # alternative forms
 - [[dã]] [[dến]]: came, arrived
+
+
+# examples
+[[Tuấn Anh]]: tớ [[phải]] [[dạy học]] **đến** 10:30

@@ -8,235 +8,211 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba86e395f33bb33f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nguy hiểm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2823ad44cb1d676c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ngày.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60311b444fc59c0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nhà.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56269843a4eae78f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vào.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cc8e5c783d5bfed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ấm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c7d7eb5c754c1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Words to Review with Gia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91e9c1100f59bb1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "có rảnh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f16b38aeb1d7d65c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sáng nay.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2b162c6bd88d143",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chút.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26ca5ba23cc95676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "giờ dây thun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "db99fd39c5f982e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bánh bò nướng.md",
+                "file": "nghe.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fab69ed9444b2b83",
+            "id": "8fb02259ac424b07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "làm được.md",
+                "file": "đến.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "62cfd0bfd67a48ac",
+            "id": "7358543648542ed9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 6.md",
+                "file": "chưa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a8284cfa5ebf313",
+            "id": "b0eb62eac7e6fc69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Words to Review with Gia.md",
+                "file": "tôi ăn sau.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2dfb37cd2745b2c4",
+            "id": "7f3df9e9aa9f42f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thôi.md",
+                "file": "cảm ơn cậu nhé.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "471cd0745664fd60",
+            "id": "d66e00763008191d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bạc hà.md",
+                "file": "thật tiếc.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "67443b2f70d15a27",
+            "id": "1359a0c6bcaa035a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cái nay nhỏ hơn cái dó.md",
+                "file": "nghỉ.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "eb479b1f2496e67e",
+            "id": "d8e60cbaed858532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "ngơi.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "53f58b5c9d16e9d5",
+            "id": "932668113181426a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hôm nay.md",
+                "file": "được hết.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff5888b9bf9962b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sau.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aa6c7157014d009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chúc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cb0180ef0ebe503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gia đình.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f573c774f348de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "khóc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcb3f685b894a3d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thật tiếc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04371a66c7890e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cảm hứn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93b9975d02ae5b54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gọi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "865fb9088f889035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pronunciations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -265,7 +241,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "thật",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -303,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "Cảm hứn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -320,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 8.md",
+                "file": "Cảm hứn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -343,7 +319,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 8.md"
+                "file": "Cảm hứn.md"
               }
             }
           },
@@ -375,34 +351,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "eb479b1f2496e67e",
+  "active": "04371a66c7890e0f",
   "lastOpenFiles": [
-    "cái nay nhỏ hơn cái dó.md",
-    "Untitled 8.md",
-    "đợi được.md",
-    "đưa nó cho tôi.md",
-    "ông nội.md",
-    "vậy biết bố là ai không.md",
-    "tắt.md",
-    "tắt đèn.md",
-    "tôi.md",
-    "trái cây.md",
-    "thứ hai.md",
-    "sản xuất.md",
-    "quên.md",
-    "nên.md",
-    "nhìn.md",
-    "nghĩa.md",
-    "má đi ngủ chưa.md",
-    "lúc mấy giờ.md",
-    "không thể nghĩ ra từ.md",
-    "em trai.md",
-    "dừng.md",
-    "chết.md",
-    "chuyển đến.md",
-    "cho.md",
-    "bật.md",
-    "đến.md",
+    "thật tiếc.md",
+    "Cảm hứn.md",
+    "thật.md",
+    "thật đáng tiếc.md",
+    "khó.md",
+    "khóc.md",
+    "may mắn.md",
+    "Chúc cậu may mắn.md",
+    "mạnh khoẻ.md",
+    "mạnh.md",
+    "khoẻ.md",
+    "nhiều may mắn.md",
+    "mắn.md",
+    "may.md",
+    "nhiều.md",
+    "gia đình.md",
+    "chúc.md",
+    "sau.md",
+    "tôi ăn sau.md",
+    "hẹn gặp lại.md",
+    "lại.md",
+    "Untitled 9.md",
+    "được hết.md",
+    "có thể.md",
+    "chuyện.md",
+    "được.md",
     "Duolingo",
     "Untitled",
     "Pasted image 20230506091504.png",

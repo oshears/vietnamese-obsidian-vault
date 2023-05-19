@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "mobilePullAction": "switcher:open",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false
 }

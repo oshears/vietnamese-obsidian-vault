@@ -1,8 +1,12 @@
 
 - can
 
-[[có]] [[thể]]
+[[có]]: to have 
+[[thể]]: can, may
 
 
 Examples
-- Hai: chúng ta có thể trò chuyện được
+- [[Hải]]: chúng ta có thể [[trò]] [[chuyện]] [[được]]
+	- We can chat
+	- [[trò chuyện]]: chat
+	- [[trò chuyện được]]: can chat
