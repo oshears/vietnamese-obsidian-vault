@@ -212,6 +212,18 @@
             }
           },
           {
+            "id": "eb479b1f2496e67e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53f58b5c9d16e9d5",
             "type": "leaf",
             "state": {
@@ -224,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -291,7 +303,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cái nay nhỏ hơn cái dó.md",
+                "file": "Untitled 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -308,7 +320,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cái nay nhỏ hơn cái dó.md",
+                "file": "Untitled 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -331,7 +343,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cái nay nhỏ hơn cái dó.md"
+                "file": "Untitled 8.md"
               }
             }
           },
@@ -363,34 +375,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "67443b2f70d15a27",
+  "active": "eb479b1f2496e67e",
   "lastOpenFiles": [
-    "đến.md",
     "cái nay nhỏ hơn cái dó.md",
-    "đén.md",
-    "tôi đén sáng nay.md",
-    "Untitled 7.md",
-    "bạc hà.md",
-    "canh cua.md",
-    "thôi.md",
-    "Resources/Words to Review with Gia.md",
-    "xong rồi không.md",
-    "Untitled 6.md",
-    "làm được.md",
-    "được.md",
-    "bánh bò nướng.md",
-    "giờ dây thun.md",
-    "xỉa.md",
-    "xỉa răng.md",
-    "xong.md",
-    "tổng số.md",
-    "sống.md",
-    "sẽ ở.md",
-    "phải.md",
-    "nhắc.md",
-    "nhạc.md",
-    "nhiều quá.md",
-    "nhiều lắm.md",
+    "Untitled 8.md",
+    "đợi được.md",
+    "đưa nó cho tôi.md",
+    "ông nội.md",
+    "vậy biết bố là ai không.md",
+    "tắt.md",
+    "tắt đèn.md",
+    "tôi.md",
+    "trái cây.md",
+    "thứ hai.md",
+    "sản xuất.md",
+    "quên.md",
+    "nên.md",
+    "nhìn.md",
+    "nghĩa.md",
+    "má đi ngủ chưa.md",
+    "lúc mấy giờ.md",
+    "không thể nghĩ ra từ.md",
+    "em trai.md",
+    "dừng.md",
+    "chết.md",
+    "chuyển đến.md",
+    "cho.md",
+    "bật.md",
+    "đến.md",
     "Duolingo",
     "Untitled",
     "Pasted image 20230506091504.png",
