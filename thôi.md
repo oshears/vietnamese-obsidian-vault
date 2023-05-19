@@ -1,0 +1,4 @@
+#verb 
+
+
+- to stop

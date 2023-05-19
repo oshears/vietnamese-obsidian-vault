@@ -16,3 +16,7 @@
 
 # pronunciation
 **ê** e 'a' as in **mate**
+
+
+# alternative forms
+- [[dã]] [[dến]]: came, arrived

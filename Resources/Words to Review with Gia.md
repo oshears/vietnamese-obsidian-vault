@@ -135,6 +135,11 @@
 - Bring: dem
 - loud
 - Quiet
+- Stop
+- More
+- Less
+- Too few: ít
+- Too much
 - 
 
 
