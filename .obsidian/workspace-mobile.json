@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "đợi được.md",
+                "file": "bây giờ.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "đợi được.md",
+            "file": "bây giờ.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "đợi được.md",
+            "file": "bây giờ.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "đợi được.md"
+            "file": "bây giờ.md"
           }
         }
       }
@@ -146,8 +146,8 @@
   },
   "active": "f53a16f85f82f094",
   "lastOpenFiles": [
-    "được.md",
     "đợi được.md",
+    "được.md",
     "Resources/Words to Review with Gia.md",
     "tắt.md",
     "bật.md",
