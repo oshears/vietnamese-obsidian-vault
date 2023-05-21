@@ -143,6 +143,9 @@ alias: Gia's Words, Gias Words, Gia's Family Words
 - Less
 - Too few: ít
 - Too much
+- only
+- Gross
+- Stay here
 - 
 
 

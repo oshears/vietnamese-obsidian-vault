@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bây giờ.md",
-                "mode": "source",
+                "file": "gửi.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "bây giờ.md",
+            "file": "gửi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "bây giờ.md",
+            "file": "gửi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "bây giờ.md"
+            "file": "gửi.md"
           }
         }
       }
@@ -146,32 +146,32 @@
   },
   "active": "f53a16f85f82f094",
   "lastOpenFiles": [
-    "đợi được.md",
-    "được.md",
+    "đáp án.md",
+    "người phụ nữ.md",
+    "gửi.md",
+    "như thế nào.md",
+    "câu trả lời.md",
+    "đứa trẻ.md",
+    "cố gắng.md",
+    "bắt đầu.md",
+    "để.md",
     "Resources/Words to Review with Gia.md",
-    "tắt.md",
-    "bật.md",
-    "sản xuất.md",
-    "tắt đèn.md",
-    "nhìn.md",
-    "dừng.md",
-    "đường.md",
-    "đúng.md",
-    "lúc mấy giờ.md",
-    "chuyển đến.md",
-    "tôi.md",
-    "ông nội.md",
-    "chết.md",
-    "không thể nghĩ ra từ.md",
-    "hôm nay.md",
-    "cho.md",
-    "đưa nó cho tôi.md",
-    "thứ một.md",
-    "má đi ngủ chưa.md",
-    "nhắc.md",
-    "vậy biết bố là ai không.md",
-    "thứ hai.md",
-    "em trai.md",
+    "xong chưa.md",
+    "bây giờ.md",
+    "Pronunciations.md",
+    "Cảm hứn.md",
+    "tôi ăn sau.md",
+    "gọi.md",
+    "mắn.md",
+    "được hết.md",
+    "nhiều may mắn.md",
+    "Untitled 9.md",
+    "khó.md",
+    "dạy học.md",
+    "nghỉ.md",
+    "may.md",
+    "mạnh khoẻ.md",
+    "Untitled 8.md",
     "Pasted image 20230506091504.png",
     "Duolingo"
   ]

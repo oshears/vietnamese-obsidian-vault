@@ -1,0 +1,3 @@
+#duolingo #verb 
+
+- to send
