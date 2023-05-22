@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gửi.md",
+                "file": "chừng.md",
                 "mode": "preview",
                 "source": false
               }
@@ -57,7 +57,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "weak",
+            "query": "Month",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "gửi.md",
+            "file": "chừng.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "gửi.md",
+            "file": "chừng.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "gửi.md"
+            "file": "chừng.md"
           }
         }
       }
@@ -146,16 +146,24 @@
   },
   "active": "f53a16f85f82f094",
   "lastOpenFiles": [
+    "chừng nao.md",
+    "chừng.md",
+    "Resources/Words to Review with Gia.md",
+    "tìm thấy.md",
+    "tìm kiếm.md",
+    "kiếm.md",
+    "mắc tiền.md",
+    "mắc.md",
+    "đắt.md",
+    "gửi.md",
     "đáp án.md",
     "người phụ nữ.md",
-    "gửi.md",
     "như thế nào.md",
     "câu trả lời.md",
     "đứa trẻ.md",
     "cố gắng.md",
     "bắt đầu.md",
     "để.md",
-    "Resources/Words to Review with Gia.md",
     "xong chưa.md",
     "bây giờ.md",
     "Pronunciations.md",
@@ -164,14 +172,6 @@
     "gọi.md",
     "mắn.md",
     "được hết.md",
-    "nhiều may mắn.md",
-    "Untitled 9.md",
-    "khó.md",
-    "dạy học.md",
-    "nghỉ.md",
-    "may.md",
-    "mạnh khoẻ.md",
-    "Untitled 8.md",
     "Pasted image 20230506091504.png",
     "Duolingo"
   ]
